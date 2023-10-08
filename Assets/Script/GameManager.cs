@@ -7,6 +7,7 @@ using UnityEngine.XR.Interaction.Toolkit.UI;
 
 public class GameManager : MonoBehaviour
 {
+
     public static GameManager instance;
 
     public GameObject settingPage;
