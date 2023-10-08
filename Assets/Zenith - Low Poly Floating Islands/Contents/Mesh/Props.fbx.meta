@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 975c6604734b72a47b6d44a4edd001f5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Book 1
+    100004: Book 2
+    100006: Chest
+    100008: Compass
+    100010: Cup
+    100012: Hanging Pot 1
+    100014: Hanging Pot 2
+    100016: Large Crate
+    100018: Laundry Line
+    100020: Map 1
+    100022: Picture
+    100024: Pot 1
+    100026: Pot 2
+    100028: //RootNode
+    100030: Rag 1
+    100032: Rag 2
+    100034: Rag 3
+    100036: Rag 4
+    100038: Rolled Map
+    100040: Rug 1
+    100042: Rug 2
+    100044: Shelf 1
+    100046: Shelf 2
+    100048: Simple Desk
+    100050: Small Crate
+    100052: Small Pot 1
+    100054: Small Pot 2
+    100056: Wall Simple
+    100058: Lantern
+    100060: Cannon
+    400000: Barrel
+    400002: Book 1
+    400004: Book 2
+    400006: Chest
+    400008: Compass
+    400010: Cup
+    400012: Hanging Pot 1
+    400014: Hanging Pot 2
+    400016: Large Crate
+    400018: Laundry Line
+    400020: Map 1
+    400022: Picture
+    400024: Pot 1
+    400026: Pot 2
+    400028: //RootNode
+    400030: Rag 1
+    400032: Rag 2
+    400034: Rag 3
+    400036: Rag 4
+    400038: Rolled Map
+    400040: Rug 1
+    400042: Rug 2
+    400044: Shelf 1
+    400046: Shelf 2
+    400048: Simple Desk
+    400050: Small Crate
+    400052: Small Pot 1
+    400054: Small Pot 2
+    400056: Wall Simple
+    400058: Lantern
+    400060: Cannon
+    2100000: No Name
+    2100002: Pot 1
+    2100004: Dirt 1
+    2100006: Arrows
+    2100008: Red
+    2300000: Barrel
+    2300002: Book 1
+    2300004: Book 2
+    2300006: Chest
+    2300008: Compass
+    2300010: Cup
+    2300012: Hanging Pot 1
+    2300014: Hanging Pot 2
+    2300016: Large Crate
+    2300018: Laundry Line
+    2300020: Map 1
+    2300022: Picture
+    2300024: Pot 1
+    2300026: Pot 2
+    2300028: Rag 1
+    2300030: Rag 2
+    2300032: Rag 3
+    2300034: Rag 4
+    2300036: Rolled Map
+    2300038: Rug 1
+    2300040: Rug 2
+    2300042: Shelf 1
+    2300044: Shelf 2
+    2300046: Simple Desk
+    2300048: Small Crate
+    2300050: Small Pot 1
+    2300052: Small Pot 2
+    2300054: Wall Simple
+    2300056: Lantern
+    2300058: Cannon
+    3300000: Barrel
+    3300002: Book 1
+    3300004: Book 2
+    3300006: Chest
+    3300008: Compass
+    3300010: Cup
+    3300012: Hanging Pot 1
+    3300014: Hanging Pot 2
+    3300016: Large Crate
+    3300018: Laundry Line
+    3300020: Map 1
+    3300022: Picture
+    3300024: Pot 1
+    3300026: Pot 2
+    3300028: Rag 1
+    3300030: Rag 2
+    3300032: Rag 3
+    3300034: Rag 4
+    3300036: Rolled Map
+    3300038: Rug 1
+    3300040: Rug 2
+    3300042: Shelf 1
+    3300044: Shelf 2
+    3300046: Simple Desk
+    3300048: Small Crate
+    3300050: Small Pot 1
+    3300052: Small Pot 2
+    3300054: Wall Simple
+    3300056: Lantern
+    3300058: Cannon
+    4300000: Shelf 1
+    4300002: Wall Simple
+    4300004: Pot 1
+    4300006: Small Pot 1
+    4300008: Small Pot 2
+    4300010: Pot 2
+    4300012: Hanging Pot 1
+    4300014: Hanging Pot 2
+    4300016: Rug 1
+    4300018: Rug 2
+    4300020: Cup
+    4300022: Chest
+    4300024: Picture
+    4300026: Rolled Map
+    4300028: Map 1
+    4300030: Compass
+    4300032: Book 1
+    4300034: Book 2
+    4300036: Simple Desk
+    4300038: Shelf 2
+    4300040: Laundry Line
+    4300042: Rag 1
+    4300044: Rag 2
+    4300046: Rag 3
+    4300048: Rag 4
+    4300050: Large Crate
+    4300052: Small Crate
+    4300054: Barrel
+    4300056: Lantern
+    4300058: Cannon
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

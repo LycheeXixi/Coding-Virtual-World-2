@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 897cc6fc6088eaa42b7538c0881475ca
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Beam 1
+    100002: Beam 2
+    100004: Beam 3
+    100006: Beam 4
+    100008: Beam 5
+    100010: Beam 6
+    100012: CIrcular Strut 1
+    100014: CIrcular Strut 2
+    100016: Ladder 1
+    100018: Ladder 2
+    100020: Ladder 3
+    100022: Ladder 4
+    100024: Ladder 5
+    100026: Ladder 6
+    100028: Ladder 7
+    100030: LowManHead
+    100032: LowManHead_end
+    100034: LowManHips
+    100036: LowManLeftArm
+    100038: LowManLeftFoot
+    100040: LowManLeftForeArm
+    100042: LowManLeftHand
+    100044: LowManLeftHandMiddle1
+    100046: LowManLeftHandMiddle2
+    100048: LowManLeftHandMiddle2_end
+    100050: LowManLeftHandThumb1
+    100052: LowManLeftHandThumb1_end
+    100054: LowManLeftLeg
+    100056: LowManLeftShoulder
+    100058: LowManLeftToeBase
+    100060: LowManLeftToeBase_end
+    100062: LowManLeftUpLeg
+    100064: LowManNeck
+    100066: LowManRightArm
+    100068: LowManRightFoot
+    100070: LowManRightForeArm
+    100072: LowManRightHand
+    100074: LowManRightHandMiddle1
+    100076: LowManRightHandMiddle2
+    100078: LowManRightHandMiddle2_end
+    100080: LowManRightHandThumb1
+    100082: LowManRightHandThumb1_end
+    100084: LowManRightLeg
+    100086: LowManRightShoulder
+    100088: LowManRightToeBase
+    100090: LowManRightToeBase_end
+    100092: LowManRightUpLeg
+    100094: LowManSkeleton
+    100096: LowManSpine
+    100098: LowManSpine1
+    100100: LowManSpine2
+    100102: Plank 1
+    100104: Plank 2
+    100106: Plank 3
+    100108: Plank 4
+    100110: Plank 5
+    100112: Plank 6
+    100114: Plank 7
+    100116: Plank 8
+    100118: Plank 9
+    100120: Platform 01
+    100122: Platform 02
+    100124: Platform 03
+    100126: Platform 04
+    100128: Platform 05
+    100130: Platform 06
+    100132: Platform 07
+    100134: Platform 08
+    100136: Platform 09
+    100138: Platform 10
+    100140: Platform 11
+    100142: Platform 12
+    100144: Platform 13
+    100146: Platform 14
+    100148: Plywood 1
+    100150: Plywood 2
+    100152: Support 1
+    100154: Support 2
+    100156: //RootNode
+    100158: Circular Strut 1
+    100160: Circular Strut 2
+    400000: Beam 1
+    400002: Beam 2
+    400004: Beam 3
+    400006: Beam 4
+    400008: Beam 5
+    400010: Beam 6
+    400012: CIrcular Strut 1
+    400014: CIrcular Strut 2
+    400016: Ladder 1
+    400018: Ladder 2
+    400020: Ladder 3
+    400022: Ladder 4
+    400024: Ladder 5
+    400026: Ladder 6
+    400028: Ladder 7
+    400030: LowManHead
+    400032: LowManHead_end
+    400034: LowManHips
+    400036: LowManLeftArm
+    400038: LowManLeftFoot
+    400040: LowManLeftForeArm
+    400042: LowManLeftHand
+    400044: LowManLeftHandMiddle1
+    400046: LowManLeftHandMiddle2
+    400048: LowManLeftHandMiddle2_end
+    400050: LowManLeftHandThumb1
+    400052: LowManLeftHandThumb1_end
+    400054: LowManLeftLeg
+    400056: LowManLeftShoulder
+    400058: LowManLeftToeBase
+    400060: LowManLeftToeBase_end
+    400062: LowManLeftUpLeg
+    400064: LowManNeck
+    400066: LowManRightArm
+    400068: LowManRightFoot
+    400070: LowManRightForeArm
+    400072: LowManRightHand
+    400074: LowManRightHandMiddle1
+    400076: LowManRightHandMiddle2
+    400078: LowManRightHandMiddle2_end
+    400080: LowManRightHandThumb1
+    400082: LowManRightHandThumb1_end
+    400084: LowManRightLeg
+    400086: LowManRightShoulder
+    400088: LowManRightToeBase
+    400090: LowManRightToeBase_end
+    400092: LowManRightUpLeg
+    400094: LowManSkeleton
+    400096: LowManSpine
+    400098: LowManSpine1
+    400100: LowManSpine2
+    400102: Plank 1
+    400104: Plank 2
+    400106: Plank 3
+    400108: Plank 4
+    400110: Plank 5
+    400112: Plank 6
+    400114: Plank 7
+    400116: Plank 8
+    400118: Plank 9
+    400120: Platform 01
+    400122: Platform 02
+    400124: Platform 03
+    400126: Platform 04
+    400128: Platform 05
+    400130: Platform 06
+    400132: Platform 07
+    400134: Platform 08
+    400136: Platform 09
+    400138: Platform 10
+    400140: Platform 11
+    400142: Platform 12
+    400144: Platform 13
+    400146: Platform 14
+    400148: Plywood 1
+    400150: Plywood 2
+    400152: Support 1
+    400154: Support 2
+    400156: //RootNode
+    400158: Circular Strut 1
+    400160: Circular Strut 2
+    2100000: No Name
+    2300000: Beam 1
+    2300002: Beam 2
+    2300004: Beam 3
+    2300006: Beam 4
+    2300008: Beam 5
+    2300010: Beam 6
+    2300012: CIrcular Strut 1
+    2300014: CIrcular Strut 2
+    2300016: Ladder 1
+    2300018: Ladder 2
+    2300020: Ladder 3
+    2300022: Ladder 4
+    2300024: Ladder 5
+    2300026: Ladder 6
+    2300028: Ladder 7
+    2300030: Plank 1
+    2300032: Plank 2
+    2300034: Plank 3
+    2300036: Plank 4
+    2300038: Plank 5
+    2300040: Plank 6
+    2300042: Plank 7
+    2300044: Plank 8
+    2300046: Plank 9
+    2300048: Platform 01
+    2300050: Platform 02
+    2300052: Platform 03
+    2300054: Platform 04
+    2300056: Platform 05
+    2300058: Platform 06
+    2300060: Platform 07
+    2300062: Platform 08
+    2300064: Platform 09
+    2300066: Platform 10
+    2300068: Platform 11
+    2300070: Platform 12
+    2300072: Platform 13
+    2300074: Platform 14
+    2300076: Plywood 1
+    2300078: Plywood 2
+    2300080: Support 1
+    2300082: Support 2
+    2300084: Circular Strut 1
+    2300086: Circular Strut 2
+    3300000: Beam 1
+    3300002: Beam 2
+    3300004: Beam 3
+    3300006: Beam 4
+    3300008: Beam 5
+    3300010: Beam 6
+    3300012: CIrcular Strut 1
+    3300014: CIrcular Strut 2
+    3300016: Ladder 1
+    3300018: Ladder 2
+    3300020: Ladder 3
+    3300022: Ladder 4
+    3300024: Ladder 5
+    3300026: Ladder 6
+    3300028: Ladder 7
+    3300030: Plank 1
+    3300032: Plank 2
+    3300034: Plank 3
+    3300036: Plank 4
+    3300038: Plank 5
+    3300040: Plank 6
+    3300042: Plank 7
+    3300044: Plank 8
+    3300046: Plank 9
+    3300048: Platform 01
+    3300050: Platform 02
+    3300052: Platform 03
+    3300054: Platform 04
+    3300056: Platform 05
+    3300058: Platform 06
+    3300060: Platform 07
+    3300062: Platform 08
+    3300064: Platform 09
+    3300066: Platform 10
+    3300068: Platform 11
+    3300070: Platform 12
+    3300072: Platform 13
+    3300074: Platform 14
+    3300076: Plywood 1
+    3300078: Plywood 2
+    3300080: Support 1
+    3300082: Support 2
+    3300084: Circular Strut 1
+    3300086: Circular Strut 2
+    4300000: Beam 1
+    4300002: Beam 2
+    4300004: Beam 3
+    4300006: Beam 4
+    4300008: Beam 6
+    4300010: Beam 5
+    4300012: Plank 1
+    4300014: Plank 2
+    4300016: Plank 3
+    4300018: Plank 4
+    4300020: Plank 5
+    4300022: Plank 6
+    4300024: Plank 7
+    4300026: Plank 8
+    4300028: Plank 9
+    4300030: Plywood 1
+    4300032: Plywood 2
+    4300034: Support 1
+    4300036: Support 2
+    4300038: CIrcular Strut 1
+    4300040: CIrcular Strut 2
+    4300042: Platform 14
+    4300044: Platform 01
+    4300046: Platform 02
+    4300048: Platform 03
+    4300050: Platform 04
+    4300052: Platform 05
+    4300054: Platform 06
+    4300056: Platform 07
+    4300058: Platform 08
+    4300060: Platform 09
+    4300062: Platform 10
+    4300064: Platform 11
+    4300066: Platform 12
+    4300068: Platform 13
+    4300070: Ladder 4
+    4300072: Ladder 1
+    4300074: Ladder 2
+    4300076: Ladder 3
+    4300078: Ladder 5
+    4300080: Ladder 6
+    4300082: Ladder 7
+    4300084: Circular Strut 1
+    4300086: Circular Strut 2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

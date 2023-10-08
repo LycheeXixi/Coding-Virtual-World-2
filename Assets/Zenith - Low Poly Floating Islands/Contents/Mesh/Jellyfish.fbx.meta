@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: c1a6c25f0c16019439febf5e43fc11a7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Head 1
+    100004: Head 2
+    100006: Head 2_end
+    100008: //RootNode
+    100010: Jellyfish
+    100012: Tentacle 1
+    100014: Tentacle 1 1
+    100016: Tentacle 1 2
+    100018: Tentacle 1 2_end
+    100020: Tentacle 2
+    100022: Tentacle 2 1
+    100024: Tentacle 2 1.001
+    100026: Tentacle 2 1.001_end
+    100028: Tentacle 3
+    100030: Tentacle 3 1
+    100032: Tentacle 3 2
+    100034: Tentacle 3 2_end
+    100036: Tentacle 4
+    100038: Tentacle 4 1
+    100040: Tentacle 4 2
+    100042: Tentacle 4 2_end
+    100044: Tentacle 5
+    100046: Tentacle 5 1
+    100048: Tentacle 5 2
+    100050: Tentacle 5 2_end
+    100052: Trail 1
+    100054: Trail 2
+    100056: Trail 2_end
+    100058: Tentacle 2 2
+    100060: Tentacle 2 2_end
+    100062: Head
+    100064: Head_end
+    100066: Jellyfish 1
+    100068: Jellyfish 2
+    100070: Jellyfish Bones 1
+    100072: Jellyfish Bones 2
+    100074: Trail 1 1
+    100076: Trail 2 1
+    100078: Trail 3
+    100080: Trail 3_end
+    400000: Armature
+    400002: Head 1
+    400004: Head 2
+    400006: Head 2_end
+    400008: //RootNode
+    400010: Jellyfish
+    400012: Tentacle 1
+    400014: Tentacle 1 1
+    400016: Tentacle 1 2
+    400018: Tentacle 1 2_end
+    400020: Tentacle 2
+    400022: Tentacle 2 1
+    400024: Tentacle 2 1.001
+    400026: Tentacle 2 1.001_end
+    400028: Tentacle 3
+    400030: Tentacle 3 1
+    400032: Tentacle 3 2
+    400034: Tentacle 3 2_end
+    400036: Tentacle 4
+    400038: Tentacle 4 1
+    400040: Tentacle 4 2
+    400042: Tentacle 4 2_end
+    400044: Tentacle 5
+    400046: Tentacle 5 1
+    400048: Tentacle 5 2
+    400050: Tentacle 5 2_end
+    400052: Trail 1
+    400054: Trail 2
+    400056: Trail 2_end
+    400058: Tentacle 2 2
+    400060: Tentacle 2 2_end
+    400062: Head
+    400064: Head_end
+    400066: Jellyfish 1
+    400068: Jellyfish 2
+    400070: Jellyfish Bones 1
+    400072: Jellyfish Bones 2
+    400074: Trail 1 1
+    400076: Trail 2 1
+    400078: Trail 3
+    400080: Trail 3_end
+    2100000: No Name
+    2100002: Material
+    2100004: Leather
+    4300000: Jellyfish
+    4300002: Jellyfish 1
+    4300004: Jellyfish 2
+    9500000: //RootNode
+    13700000: Jellyfish
+    13700002: Jellyfish 1
+    13700004: Jellyfish 2
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

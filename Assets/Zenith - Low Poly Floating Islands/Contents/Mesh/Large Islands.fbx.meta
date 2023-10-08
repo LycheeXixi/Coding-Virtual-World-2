@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: fa44f3e01fa42e1409d6615882ac5dde
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Island.001
+    100002: Island.002
+    100004: Island.003
+    100006: Island.004
+    100008: Island.005
+    100010: Island.006
+    100012: Island.007
+    100014: Island.008
+    100016: Island.009
+    100018: Island.010
+    100020: Island.011
+    100022: Island.012
+    100024: Island.013
+    100026: Island.014
+    100028: //RootNode
+    100030: Island 01
+    100032: Island 02
+    100034: Island 03
+    100036: Island 04
+    100038: Island 05
+    100040: Island 06
+    100042: Island 07
+    100044: Island 08
+    100046: Island 09
+    100048: Island 10
+    100050: Island 11
+    100052: Island 12
+    100054: Island 13
+    100056: Island 14
+    400000: Island.001
+    400002: Island.002
+    400004: Island.003
+    400006: Island.004
+    400008: Island.005
+    400010: Island.006
+    400012: Island.007
+    400014: Island.008
+    400016: Island.009
+    400018: Island.010
+    400020: Island.011
+    400022: Island.012
+    400024: Island.013
+    400026: Island.014
+    400028: //RootNode
+    400030: Island 01
+    400032: Island 02
+    400034: Island 03
+    400036: Island 04
+    400038: Island 05
+    400040: Island 06
+    400042: Island 07
+    400044: Island 08
+    400046: Island 09
+    400048: Island 10
+    400050: Island 11
+    400052: Island 12
+    400054: Island 13
+    400056: Island 14
+    2100000: Grass
+    2100002: Rock
+    2300000: Island.001
+    2300002: Island.002
+    2300004: Island.003
+    2300006: Island.004
+    2300008: Island.005
+    2300010: Island.006
+    2300012: Island.007
+    2300014: Island.008
+    2300016: Island.009
+    2300018: Island.010
+    2300020: Island.011
+    2300022: Island.012
+    2300024: Island.013
+    2300026: Island.014
+    2300028: Island 01
+    2300030: Island 02
+    2300032: Island 03
+    2300034: Island 04
+    2300036: Island 05
+    2300038: Island 06
+    2300040: Island 07
+    2300042: Island 08
+    2300044: Island 09
+    2300046: Island 10
+    2300048: Island 11
+    2300050: Island 12
+    2300052: Island 13
+    2300054: Island 14
+    3300000: Island.001
+    3300002: Island.002
+    3300004: Island.003
+    3300006: Island.004
+    3300008: Island.005
+    3300010: Island.006
+    3300012: Island.007
+    3300014: Island.008
+    3300016: Island.009
+    3300018: Island.010
+    3300020: Island.011
+    3300022: Island.012
+    3300024: Island.013
+    3300026: Island.014
+    3300028: Island 01
+    3300030: Island 02
+    3300032: Island 03
+    3300034: Island 04
+    3300036: Island 05
+    3300038: Island 06
+    3300040: Island 07
+    3300042: Island 08
+    3300044: Island 09
+    3300046: Island 10
+    3300048: Island 11
+    3300050: Island 12
+    3300052: Island 13
+    3300054: Island 14
+    4300000: Island.014
+    4300002: Island.001
+    4300004: Island.002
+    4300006: Island.003
+    4300008: Island.004
+    4300010: Island.005
+    4300012: Island.006
+    4300014: Island.007
+    4300016: Island.008
+    4300018: Island.009
+    4300020: Island.010
+    4300022: Island.011
+    4300024: Island.012
+    4300026: Island.013
+    4300028: Island 14
+    4300030: Island 01
+    4300032: Island 02
+    4300034: Island 03
+    4300036: Island 04
+    4300038: Island 05
+    4300040: Island 06
+    4300042: Island 07
+    4300044: Island 08
+    4300046: Island 09
+    4300048: Island 10
+    4300050: Island 11
+    4300052: Island 12
+    4300054: Island 13
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: ff95c5c6e0047694698e395e46d575f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock
+    second: {fileID: 2100000, guid: 92bc341c1de41d049b37243396dd5d0e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

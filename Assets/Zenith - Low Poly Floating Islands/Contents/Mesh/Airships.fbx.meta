@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 8799d6917d6be4347a778061df94e5cf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Sphere
+    100006: Torus.001
+    100008: Torus.002
+    100010: Balloon 1
+    100012: Boat 1
+    100014: Medium Tail FIn
+    100016: Medium Underside Fin
+    100018: Sail Small
+    100020: Small Boat
+    100022: Small Boat Sails
+    100024: Small Front Rudder
+    100026: Small Rigging
+    100028: Small Tail Fin
+    100030: Small Underside Fin
+    100032: Cube.001
+    100034: Large Boat
+    100036: Medium Boat
+    100038: Medium Boat.001
+    100040: Steering Wheel
+    100042: Ship Wheel
+    100044: Wheel
+    100046: Medium Boat (No Windows)
+    100048: Large Boat.001
+    100050: Balloon 2
+    100052: Medium Boat Sails
+    100054: Medium Rigging
+    100056: Medium Tail FIn.001
+    100058: Medium Underside Fin.001
+    100060: Medium Underside Fin.002
+    100062: Sails Medium
+    100064: Small Front Rudder.001
+    100066: Large Balloon
+    100068: Large Rigging
+    100070: Large Sails
+    100072: Large Tail Fin 1
+    100074: Large Tail Fin 2
+    100076: Large Underside Fin
+    100078: Medium Tail Fin
+    100080: Medium Tail Fin.001
+    100082: Huge Boat
+    100084: Cube.002
+    100086: Cylinder
+    100088: Huge Rigging
+    100090: Huge Balloon
+    100092: Huge Tail FIn
+    100094: Huge Sails
+    100096: Huge Underside FIn
+    100098: Outrigger Large
+    100100: Outrigger Med
+    100102: Outrigger Sail Large
+    100104: Outrigger Sail Med
+    100106: Outrigger Sail Small
+    100108: Outrigger Small
+    100110: Balloon Tiny
+    100112: Rigging Tiny
+    100114: Tiny Boat
+    400000: //RootNode
+    400002: Cube
+    400004: Sphere
+    400006: Torus.001
+    400008: Torus.002
+    400010: Balloon 1
+    400012: Boat 1
+    400014: Medium Tail FIn
+    400016: Medium Underside Fin
+    400018: Sail Small
+    400020: Small Boat
+    400022: Small Boat Sails
+    400024: Small Front Rudder
+    400026: Small Rigging
+    400028: Small Tail Fin
+    400030: Small Underside Fin
+    400032: Cube.001
+    400034: Large Boat
+    400036: Medium Boat
+    400038: Medium Boat.001
+    400040: Steering Wheel
+    400042: Ship Wheel
+    400044: Wheel
+    400046: Medium Boat (No Windows)
+    400048: Large Boat.001
+    400050: Balloon 2
+    400052: Medium Boat Sails
+    400054: Medium Rigging
+    400056: Medium Tail FIn.001
+    400058: Medium Underside Fin.001
+    400060: Medium Underside Fin.002
+    400062: Sails Medium
+    400064: Small Front Rudder.001
+    400066: Large Balloon
+    400068: Large Rigging
+    400070: Large Sails
+    400072: Large Tail Fin 1
+    400074: Large Tail Fin 2
+    400076: Large Underside Fin
+    400078: Medium Tail Fin
+    400080: Medium Tail Fin.001
+    400082: Huge Boat
+    400084: Cube.002
+    400086: Cylinder
+    400088: Huge Rigging
+    400090: Huge Balloon
+    400092: Huge Tail FIn
+    400094: Huge Sails
+    400096: Huge Underside FIn
+    400098: Outrigger Large
+    400100: Outrigger Med
+    400102: Outrigger Sail Large
+    400104: Outrigger Sail Med
+    400106: Outrigger Sail Small
+    400108: Outrigger Small
+    400110: Balloon Tiny
+    400112: Rigging Tiny
+    400114: Tiny Boat
+    2100000: No Name
+    2100002: Wood 1
+    2100004: Wood 2
+    2100006: Canvas
+    2100008: Rope
+    2100010: Ship Wall
+    2100012: Glass
+    2100014: Figurehead
+    2100016: Wood 1.003
+    2100018: Rope.003
+    2100020: Canvas.003
+    2100022: Wood 1.002
+    2100024: Rope.002
+    2100026: Canvas.002
+    2100028: Wood 1.001
+    2100030: Rope.001
+    2100032: Canvas.001
+    2300000: Cube
+    2300002: Sphere
+    2300004: Torus.001
+    2300006: Torus.002
+    2300008: Balloon 1
+    2300010: Boat 1
+    2300012: Medium Tail FIn
+    2300014: Medium Underside Fin
+    2300016: Sail Small
+    2300018: Small Boat
+    2300020: Small Boat Sails
+    2300022: Small Front Rudder
+    2300024: Small Rigging
+    2300026: Small Tail Fin
+    2300028: Small Underside Fin
+    2300030: Cube.001
+    2300032: Large Boat
+    2300034: Medium Boat
+    2300036: Medium Boat.001
+    2300038: Steering Wheel
+    2300040: Ship Wheel
+    2300042: Wheel
+    2300044: Medium Boat (No Windows)
+    2300046: Large Boat.001
+    2300048: Balloon 2
+    2300050: Medium Boat Sails
+    2300052: Medium Rigging
+    2300054: Medium Tail FIn.001
+    2300056: Medium Underside Fin.001
+    2300058: Medium Underside Fin.002
+    2300060: Sails Medium
+    2300062: Small Front Rudder.001
+    2300064: Large Balloon
+    2300066: Large Rigging
+    2300068: Large Sails
+    2300070: Large Tail Fin 1
+    2300072: Large Tail Fin 2
+    2300074: Large Underside Fin
+    2300076: Medium Tail Fin
+    2300078: Medium Tail Fin.001
+    2300080: Huge Boat
+    2300082: Cube.002
+    2300084: Cylinder
+    2300086: Huge Rigging
+    2300088: Huge Balloon
+    2300090: Huge Tail FIn
+    2300092: Huge Sails
+    2300094: Huge Underside FIn
+    2300096: Outrigger Large
+    2300098: Outrigger Med
+    2300100: Outrigger Sail Large
+    2300102: Outrigger Sail Med
+    2300104: Outrigger Sail Small
+    2300106: Outrigger Small
+    2300108: Balloon Tiny
+    2300110: Rigging Tiny
+    2300112: Tiny Boat
+    3300000: Cube
+    3300002: Sphere
+    3300004: Torus.001
+    3300006: Torus.002
+    3300008: Balloon 1
+    3300010: Boat 1
+    3300012: Medium Tail FIn
+    3300014: Medium Underside Fin
+    3300016: Sail Small
+    3300018: Small Boat
+    3300020: Small Boat Sails
+    3300022: Small Front Rudder
+    3300024: Small Rigging
+    3300026: Small Tail Fin
+    3300028: Small Underside Fin
+    3300030: Cube.001
+    3300032: Large Boat
+    3300034: Medium Boat
+    3300036: Medium Boat.001
+    3300038: Steering Wheel
+    3300040: Ship Wheel
+    3300042: Wheel
+    3300044: Medium Boat (No Windows)
+    3300046: Large Boat.001
+    3300048: Balloon 2
+    3300050: Medium Boat Sails
+    3300052: Medium Rigging
+    3300054: Medium Tail FIn.001
+    3300056: Medium Underside Fin.001
+    3300058: Medium Underside Fin.002
+    3300060: Sails Medium
+    3300062: Small Front Rudder.001
+    3300064: Large Balloon
+    3300066: Large Rigging
+    3300068: Large Sails
+    3300070: Large Tail Fin 1
+    3300072: Large Tail Fin 2
+    3300074: Large Underside Fin
+    3300076: Medium Tail Fin
+    3300078: Medium Tail Fin.001
+    3300080: Huge Boat
+    3300082: Cube.002
+    3300084: Cylinder
+    3300086: Huge Rigging
+    3300088: Huge Balloon
+    3300090: Huge Tail FIn
+    3300092: Huge Sails
+    3300094: Huge Underside FIn
+    3300096: Outrigger Large
+    3300098: Outrigger Med
+    3300100: Outrigger Sail Large
+    3300102: Outrigger Sail Med
+    3300104: Outrigger Sail Small
+    3300106: Outrigger Small
+    3300108: Balloon Tiny
+    3300110: Rigging Tiny
+    3300112: Tiny Boat
+    4300000: Torus.002
+    4300002: Torus.001
+    4300004: Sphere
+    4300006: Cube
+    4300008: Boat 1
+    4300010: Small Boat
+    4300012: Small Boat Sails
+    4300014: Balloon 1
+    4300016: Small Tail Fin
+    4300018: Small Underside Fin
+    4300020: Small Front Rudder
+    4300022: Small Rigging
+    4300024: Sail Small
+    4300026: Medium Tail FIn
+    4300028: Medium Underside Fin
+    4300030: Medium Boat
+    4300032: Large Boat
+    4300034: Cube.001
+    4300036: Medium Boat.001
+    4300038: Steering Wheel
+    4300040: Ship Wheel
+    4300042: Wheel
+    4300044: Medium Boat (No Windows)
+    4300046: Large Boat.001
+    4300048: Medium Underside Fin.002
+    4300050: Medium Boat Sails
+    4300052: Medium Rigging
+    4300054: Balloon 2
+    4300056: Sails Medium
+    4300058: Small Front Rudder.001
+    4300060: Medium Underside Fin.001
+    4300062: Medium Tail FIn.001
+    4300064: Large Underside Fin
+    4300066: Large Rigging
+    4300068: Large Sails
+    4300070: Large Tail Fin 1
+    4300072: Large Tail Fin 2
+    4300074: Large Balloon
+    4300076: Medium Tail Fin
+    4300078: Medium Tail Fin.001
+    4300080: Huge Boat
+    4300082: Cube.002
+    4300084: Cylinder
+    4300086: Huge Rigging
+    4300088: Huge Balloon
+    4300090: Huge Tail FIn
+    4300092: Huge Sails
+    4300094: Huge Underside FIn
+    4300096: Outrigger Small
+    4300098: Outrigger Sail Small
+    4300100: Outrigger Med
+    4300102: Outrigger Sail Med
+    4300104: Outrigger Large
+    4300106: Outrigger Sail Large
+    4300108: Tiny Boat
+    4300110: Balloon Tiny
+    4300112: Rigging Tiny
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canvas
+    second: {fileID: 2100000, guid: e5c0d35fa10767643af229f9388dc537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canvas.001
+    second: {fileID: 2100000, guid: e5c0d35fa10767643af229f9388dc537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canvas.002
+    second: {fileID: 2100000, guid: e5c0d35fa10767643af229f9388dc537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canvas.003
+    second: {fileID: 2100000, guid: e5c0d35fa10767643af229f9388dc537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Figurehead
+    second: {fileID: 2100000, guid: 926ef8427499a3249930d7bfc8210a4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: eb5532c32ec0a4c499447173050e9446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 19eb2250ef92c7d4ebbccaafcec04c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope
+    second: {fileID: 2100000, guid: 1adb219b4c470334a8134256962b5d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope.001
+    second: {fileID: 2100000, guid: 1adb219b4c470334a8134256962b5d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope.002
+    second: {fileID: 2100000, guid: 1adb219b4c470334a8134256962b5d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope.003
+    second: {fileID: 2100000, guid: 1adb219b4c470334a8134256962b5d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Wall
+    second: {fileID: 2100000, guid: 19eb2250ef92c7d4ebbccaafcec04c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood 1
+    second: {fileID: 2100000, guid: ae643a687aa73e940b572d4470866b80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood 1.001
+    second: {fileID: 2100000, guid: 584dcbc9cdadc29478797f8b332e5ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood 1.002
+    second: {fileID: 2100000, guid: 584dcbc9cdadc29478797f8b332e5ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood 1.003
+    second: {fileID: 2100000, guid: 584dcbc9cdadc29478797f8b332e5ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood 2
+    second: {fileID: 2100000, guid: bbe7e2125e50cc74cad2d40ef2ebfdd1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
