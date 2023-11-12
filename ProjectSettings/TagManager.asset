@@ -8,7 +8,9 @@ TagManager:
   - toy
   - player
   - Cloud
-  - road
+  - Airship Target
+  - Jelly Destination
+  - mushroom
   layers:
   - Default
   - TransparentFX

@@ -25,7 +25,7 @@ public class ShowTalk : MonoBehaviour
 
 
         wordText.text = "";
-        //GameManager.instance.ShowHands(true);
+        GameManager.instance.ShowHands(true);
         transform.GetChild(0).gameObject.SetActive(false);
     }
 
@@ -34,7 +34,7 @@ public class ShowTalk : MonoBehaviour
     {
         if (startOnawake)
         {
-            //GameManager.instance.ShowHands(false);
+            GameManager.instance.ShowHands(false);
             transform.GetChild(0).gameObject.SetActive(true);
             //StopAllCoroutines();
             StartCoroutine(Play());

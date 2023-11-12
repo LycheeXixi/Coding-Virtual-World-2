@@ -11,6 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Island.unity
     guid: 55881829d8eb3407ca64f0c4c8fed213
+  - enabled: 1
+    path: Assets/Scenes/Jelly.unity
+    guid: a6d6ea6be999048fa937c7cd53b1a35b
+  - enabled: 1
+    path: Assets/Scenes/Sunset.unity
+    guid: 73648afd3649e4eae91f54b921adc7be
+  - enabled: 1
+    path: Assets/Scenes/Tunnel.unity
+    guid: 851c444c066024ae39c817057e99b724
+  - enabled: 1
+    path: Assets/Scenes/black.unity
+    guid: 60632e091724d46d784fc6ac3532478b
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}

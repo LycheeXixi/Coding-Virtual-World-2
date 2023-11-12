@@ -47,7 +47,7 @@ public class GameManager : MonoBehaviour
         hands[1].SetActive(active);
     }
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         instance = this;
         InputDevices.GetDevicesAtXRNode(XRNode.RightHand, all2device);
